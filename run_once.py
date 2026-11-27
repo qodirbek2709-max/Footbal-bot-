@@ -39,6 +39,7 @@ def build_config():
     cfg["admin_id"] = os.environ.get("ADMIN_ID", "")
     cfg["channel"] = os.environ.get("CHANNEL") or cfg["channel"]
     cfg["setup_done"] = True
+    cfg["translate"] = True
     return cfg
 
 
