@@ -2,3 +2,4 @@ feedparser
 requests
 Pillow
 python-telegram-bot>=20
+deep-translator
