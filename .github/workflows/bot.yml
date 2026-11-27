@@ -30,6 +30,7 @@ jobs:
           GROUP_LINK: ${{ secrets.GROUP_LINK }}
           ADMIN_ID: ${{ secrets.ADMIN_ID }}
           CHANNEL: ${{ secrets.CHANNEL }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python run_once.py
       - name: Save state
         if: always()
