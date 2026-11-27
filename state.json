@@ -244,13 +244,24 @@
     "https://www.skysports.com/rugby-union/live-blog/12040/13616953/ireland-vs-australia-live-nations-championship-updates-latest-scores-team-news-commentary-from-allianz-stadium-twickenham",
     "https://www.skysports.com/football/southampton-vs-middlesbrough/live/560709",
     "https://www.skysports.com/football/nottingham-forest-vs-chelsea/live/559562",
-    "https://www.skysports.com/f1/news/12040/13617140/qatar-gp-kimi-antonelli-completes-friday-practice-double-as-mercedes-dominate-despite-red-flag-interruptions"
+    "https://www.skysports.com/f1/news/12040/13617140/qatar-gp-kimi-antonelli-completes-friday-practice-double-as-mercedes-dominate-despite-red-flag-interruptions",
+    "https://www.theguardian.com/football/live/2026/nov/27/nottingham-forest-v-chelsea-premier-league-live",
+    "https://www.theguardian.com/football/2026/nov/27/why-things-started-go-wrong-manchester-city-under-enzo-maresca",
+    "https://www.skysports.com/nfl/live-blog/12040/13617305/nfl-denver-broncos-at-pittsburgh-steelers-live-latest-updates-and-score-from-2026-black-friday-matchup",
+    "https://www.skysports.com/nfl/news/12040/13615930/nfl-why-kyle-shanahan-brock-purdy-and-san-francisco-49ers-uncs-deserve-super-bowl-moment-plus-kirk-cousins-revenge-game-and-sam-darnold-pressure",
+    "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
+    "https://www.skysports.com/watch/video/13617329/goal-i-jesus-5-nottm-forest-1-0-chelsea"
   ],
   "announced": [
     "565869",
     "558515",
-    "559616"
+    "559616",
+    "560658",
+    "564765"
   ],
-  "started": [],
+  "started": [
+    "560658",
+    "564765"
+  ],
   "morning": "2026-11-27"
 }
