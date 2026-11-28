@@ -327,7 +327,17 @@
     "https://www.skysports.com/football/rangers-vs-falkirk/live/558421",
     "https://www.skysports.com/watch/video/13617506/manchester-utd-vs-brentford-team-news-from-old-trafford",
     "https://www.skysports.com/watch/video/13617502/what-happened-next-preston-goal-disallowed-in-bizarre-circumstances",
-    "https://www.skysports.com/watch/video/13617493/manchester-utd-vs-brentford-mauricio-pochettino-arrives-at-old-trafford-for-first-home-game-in-charge"
+    "https://www.skysports.com/watch/video/13617493/manchester-utd-vs-brentford-mauricio-pochettino-arrives-at-old-trafford-for-first-home-game-in-charge",
+    "https://www.skysports.com/rugby-union/wales-vs-japan/report/111702",
+    "https://www.skysports.com/watch/video/13617548/alexei-prevails-in-a-thrilling-fighting-fifth-finish",
+    "https://www.skysports.com/tennis/news/12040/13617448/davis-cup-tennis-great-britain-knocked-out-in-semi-finals-as-carlos-alcaraz-thrashes-arthur-fery-to-set-up-spain-italy-final",
+    "https://www.skysports.com/football/preston-north-end-vs-norwich-city/report/560707",
+    "https://www.skysports.com/football/news/12040/13617455/ashley-cole-in-talks-to-take-over-at-bristol-rovers-as-pressure-mounts-on-steve-evans-after-defeat-to-tranmere",
+    "https://www.skysports.com/football/blackburn-rovers-vs-charlton-athletic/report/560703",
+    "https://www.skysports.com/football/lincoln-city-vs-wolverhampton-wanderers/report/560705",
+    "https://www.skysports.com/football/west-ham-united-vs-stoke-city/live/560712",
+    "https://www.skysports.com/watch/video/13617509/manchester-utd-v-brentford-mauricio-pochettino-calls-on-fans-to-play-their-part-in-first-game-at-old-trafford",
+    "https://www.skysports.com/football/news/12040/13617492/chelsea-must-beat-crystal-palace-but-are-the-players-behind-under-fire-boss-xabi-alonso-asks-paul-merson"
   ],
   "announced": [
     "565869",
@@ -340,12 +350,17 @@
     "565868",
     "565866",
     "565867",
-    "565874"
+    "565874",
+    "560655",
+    "560652",
+    "564767"
   ],
   "started": [
     "560658",
     "564765",
-    "558513"
+    "558513",
+    "560655",
+    "560652"
   ],
   "morning": "2026-11-28"
 }
