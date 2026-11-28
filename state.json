@@ -343,7 +343,15 @@
     "https://www.skysports.com/f1/news/12040/13617464/qatar-gp-kimi-antonelli-fastest-in-final-practice-from-george-russell-as-mercedes-domination-continues-ahead-of-qualifying",
     "https://www.skysports.com/watch/video/13617579/manchester-utd-vs-brentford-paul-merson-reacts-to-both-goals-from-the-visitors",
     "https://www.skysports.com/football/ipswich-town-vs-aston-villa/live/559559",
-    "https://www.skysports.com/rugby-union/live-blog/12040/13617317/england-vs-new-zealand-live-nations-championship-updates-latest-scores-team-news-commentary-from-allianz-stadium-twickenham"
+    "https://www.skysports.com/rugby-union/live-blog/12040/13617317/england-vs-new-zealand-live-nations-championship-updates-latest-scores-team-news-commentary-from-allianz-stadium-twickenham",
+    "https://www.bbc.co.uk/sport/football/articles/c6x2wjegj9nko?at_medium=RSS&at_campaign=rss",
+    "https://www.theguardian.com/football/live/2026/nov/28/ipswich-town-v-aston-villa-premier-league-live",
+    "https://www.theguardian.com/football/2026/nov/28/leeds-coventry-premier-league-match-report",
+    "https://www.skysports.com/football/manchester-united-vs-brentford/report/559561",
+    "https://www.skysports.com/racing/news/12040/13617600/long-term-snowden-plan-comes-to-fruition-with-wendigo",
+    "https://www.skysports.com/football/millwall-vs-burnley/report/560706",
+    "https://www.skysports.com/watch/video/13617606/let-andalucia-costa-del-sol-open-de-espana-day-three-highlights",
+    "https://www.skysports.com/football/leeds-united-vs-coventry-city/report/559560"
   ],
   "announced": [
     "565869",
@@ -360,7 +368,11 @@
     "560655",
     "560652",
     "564767",
-    "559612"
+    "559612",
+    "558514",
+    "565870",
+    "564759",
+    "560653"
   ],
   "started": [
     "560658",
@@ -368,7 +380,8 @@
     "558513",
     "560655",
     "560652",
-    "559612"
+    "559612",
+    "558514"
   ],
   "morning": "2026-11-28"
 }
