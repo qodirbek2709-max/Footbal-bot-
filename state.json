@@ -337,7 +337,13 @@
     "https://www.skysports.com/football/lincoln-city-vs-wolverhampton-wanderers/report/560705",
     "https://www.skysports.com/football/west-ham-united-vs-stoke-city/live/560712",
     "https://www.skysports.com/watch/video/13617509/manchester-utd-v-brentford-mauricio-pochettino-calls-on-fans-to-play-their-part-in-first-game-at-old-trafford",
-    "https://www.skysports.com/football/news/12040/13617492/chelsea-must-beat-crystal-palace-but-are-the-players-behind-under-fire-boss-xabi-alonso-asks-paul-merson"
+    "https://www.skysports.com/football/news/12040/13617492/chelsea-must-beat-crystal-palace-but-are-the-players-behind-under-fire-boss-xabi-alonso-asks-paul-merson",
+    "https://www.theguardian.com/football/2026/nov/28/ashley-cole-bristol-rovers-manager-steve-evans-league-two",
+    "https://www.theguardian.com/football/2026/nov/28/championship-roundup-norwichs-clement-sent-off-in-bad-tempered-preston-draw",
+    "https://www.skysports.com/f1/news/12040/13617464/qatar-gp-kimi-antonelli-fastest-in-final-practice-from-george-russell-as-mercedes-domination-continues-ahead-of-qualifying",
+    "https://www.skysports.com/watch/video/13617579/manchester-utd-vs-brentford-paul-merson-reacts-to-both-goals-from-the-visitors",
+    "https://www.skysports.com/football/ipswich-town-vs-aston-villa/live/559559",
+    "https://www.skysports.com/rugby-union/live-blog/12040/13617317/england-vs-new-zealand-live-nations-championship-updates-latest-scores-team-news-commentary-from-allianz-stadium-twickenham"
   ],
   "announced": [
     "565869",
@@ -353,14 +359,16 @@
     "565874",
     "560655",
     "560652",
-    "564767"
+    "564767",
+    "559612"
   ],
   "started": [
     "560658",
     "564765",
     "558513",
     "560655",
-    "560652"
+    "560652",
+    "559612"
   ],
   "morning": "2026-11-28"
 }
