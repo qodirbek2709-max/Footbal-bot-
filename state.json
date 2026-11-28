@@ -318,7 +318,16 @@
     "https://www.theguardian.com/football/2026/nov/28/jorgen-strand-larsen-cancer-crystal-place-father-norway",
     "https://www.skysports.com/football/manchester-united-vs-brentford/live/559561",
     "https://www.skysports.com/football/leeds-united-vs-coventry-city/live/559560",
-    "https://www.skysports.com/watch/video/13617459/chelsea-latest-is-xabi-alonso-under-increasing-pressure-afgter-3-2-defeat-to-nottingham-forest"
+    "https://www.skysports.com/watch/video/13617459/chelsea-latest-is-xabi-alonso-under-increasing-pressure-afgter-3-2-defeat-to-nottingham-forest",
+    "https://www.bbc.co.uk/sport/football/articles/cwe9krv444mjo?at_medium=RSS&at_campaign=rss",
+    "https://www.bbc.co.uk/sport/football/articles/cwj0579d8jvpo?at_medium=RSS&at_campaign=rss",
+    "https://www.bbc.co.uk/sport/football/articles/cwe9krv444mjo?at_medium=RSS&at_campaign=rss",
+    "https://www.theguardian.com/football/live/2026/nov/28/manchester-united-v-brentford-leeds-v-coventry-and-more-saturday-football-clockwatch-live",
+    "https://www.skysports.com/f1/live-blog/12040/13617474/f1-qatar-gp-qualifying-and-final-practice-updates-results-stream-and-highlights-from-formula-1-race-weekend-in-doha",
+    "https://www.skysports.com/football/rangers-vs-falkirk/live/558421",
+    "https://www.skysports.com/watch/video/13617506/manchester-utd-vs-brentford-team-news-from-old-trafford",
+    "https://www.skysports.com/watch/video/13617502/what-happened-next-preston-goal-disallowed-in-bizarre-circumstances",
+    "https://www.skysports.com/watch/video/13617493/manchester-utd-vs-brentford-mauricio-pochettino-arrives-at-old-trafford-for-first-home-game-in-charge"
   ],
   "announced": [
     "565869",
@@ -326,11 +335,17 @@
     "559616",
     "560658",
     "564765",
-    "558513"
+    "558513",
+    "558513",
+    "565868",
+    "565866",
+    "565867",
+    "565874"
   ],
   "started": [
     "560658",
-    "564765"
+    "564765",
+    "558513"
   ],
   "morning": "2026-11-28"
 }
